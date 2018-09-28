@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         Blcok AdBlocker Block
-// @namespace    https://github.com/block-adblocker-blockers/block-adblocker-blockers
+// @name         Block AdBlocker Blocker
+// @namespace    https://github.com/bablob/block-adblocker-blocker
 // @version      0.1
 // @description  Bloqueia dos bloqueadores de AdBlocker
-// @author       You
+// @author       bablob
 // @match        https://revistacasaejardim.globo.com/*
 // @match        https://casavogue.globo.com/*
-// @grant        none
+// @grant        GM_webRequest
+// @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
 (function() {
