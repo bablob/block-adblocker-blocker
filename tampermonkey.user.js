@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Block AdBlocker Blocker
 // @namespace    https://github.com/bablob/block-adblocker-blocker
-// @version      0.2
+// @version      0.3
 // @description  Bloqueia os bloqueadores de AdBlocker
 // @author       bablob
 // @match        https://revistacasaejardim.globo.com/*
@@ -9,8 +9,17 @@
 // @match        https://vogue.globo.com/*
 // @match        https://epoca.globo.com/*
 // @match        https://revistaautoesporte.globo.com/*
+// @match        https://revistagalileu.globo.com/*
+// @match        https://revistaglamour.globo.com/*
+// @match        https://revistaquem.globo.com/*
+// @match        https://revistamonet.globo.com/*
+// @match        https://gq.globo.com/*
+// @match        https://revistacrescer.globo.com/*
+// @match        https://revistagloborural.globo.com/*
 // @grant        GM_webRequest
 // @grant        GM_xmlhttpRequest
+// @downloadURL  https://github.com/bablob/block-adblocker-blocker/raw/master/tampermonkey.user.js
+// @updateURL    https://github.com/bablob/block-adblocker-blocker/raw/master/tampermonkey.user.js
 // ==/UserScript==
 
 (function() {
