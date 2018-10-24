@@ -8,6 +8,7 @@
 // @match        https://casavogue.globo.com/*
 // @match        https://vogue.globo.com/*
 // @match        https://epoca.globo.com/*
+// @match        https://revistaautoesporte.globo.com/*
 // @grant        GM_webRequest
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
