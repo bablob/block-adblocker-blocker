@@ -24,5 +24,14 @@ Após instalar:
 ### Sites que funcionam
 - Revista Casa e Jardim
 - Casa Vogue
+- Vogue
+- Época
+- Autoesporte
+- Revista Galileu
+- Revista Glamour
+- Revista Quem
+- QG
+- Revista Crescer
+- Revista Globo Rural
 
-_(Adicionando mais...)_
+Adicionando mais a cada dia. [Sugira algum site.](https://github.com/bablob/block-adblocker-blocker/issues/new)
